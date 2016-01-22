@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ActionModeListViewDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+
+    <string-array name="android_versions">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+    </string-array>
+</resources>
